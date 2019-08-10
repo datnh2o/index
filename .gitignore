@@ -1,0 +1,10 @@
+#library
+node_modules
+
+#idea
+.idea
+.vscode
+
+#lock
+package-lock.json
+yarn.lock
